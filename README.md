@@ -3,6 +3,7 @@ Twitter Sentiment Analysis with NLP 📊
 Bu projede, Twitter üzerinden alınan 24.783 satırlık veri seti kullanılarak tweetlerin içerik analizi yapılmış ve metinler üç farklı kategoriye (Nefret Söylemi, Saldırgan, Nötr) sınıflandırılmıştır.
 
 🛠️ Kullanılan Teknolojiler
+
 Dil: Python
 
 Kütüphaneler: Pandas, NumPy, Scikit-learn, NLTK
