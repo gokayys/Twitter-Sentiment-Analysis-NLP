@@ -1,2 +1,18 @@
-# Twitter-Sentiment-Analysis-NLP
-Twitter verileri üzerinde makine öğrenmesi ve Doğal Dil İşleme (NLP) teknikleri kullanarak metin sınıflandırma (Nefret, Saldırgan, Nötr) projesi.
+Twitter Sentiment Analysis with NLP 📊
+Bu projede, Twitter üzerinden alınan 24.783 satırlık veri seti kullanılarak tweetlerin içerik analizi yapılmış ve metinler üç farklı kategoriye (Nefret Söylemi, Saldırgan, Nötr) sınıflandırılmıştır.
+
+🛠️ Kullanılan Teknolojiler
+Dil: Python
+
+Kütüphaneler: Pandas, NumPy, Scikit-learn, NLTK
+
+Yöntem: TF-IDF Vectorization
+
+🚀 Yapılan İşlemler
+Veri Ön İşleme: Metin temizleme, gereksiz kelimelerin (stopwords) ayıklanması ve sayısallaştırma süreçleri yönetildi.
+
+Modelleme: Farklı sınıflandırma algoritmaları eğitildi ve performansları karşılaştırıldı.
+
+Başarı: En yüksek başarı skoru olarak %89.75 doğruluk oranı elde edildi.
+
+Analiz: Model başarısı Confusion Matrix (Karmaşıklık Matrisi) ile doğrulanarak hata analizleri yapıldı.
